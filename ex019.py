@@ -5,7 +5,3 @@
 n1 = int(input('Digite quantos reais você tem na carteira: '))
 c = n1 / 5.44
 print('Seu dinheiro atualmente vale {:.2f} dólares'.format(c))
-
-# {:.2f} -> SIGNIFICA QUE SÓ APARECERÁ DUAS CASAS DEPOIS DA VÍRGULA
-
-
