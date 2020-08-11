@@ -10,6 +10,3 @@ print('É alfanumérico?', a.isalnum())
 print('Está em maiúsculas?', a.isupper())
 print('Está em minúsculas?', a.islower())
 print('Está em capitalizada?', a.istitle())
-
-#função 'input' sempre retorna 'str'
-#para mudar é preciso transformá-lo
