@@ -10,7 +10,3 @@ a4 = input('Quarto aluno: ')
 lista = [a1, a2, a3, a4]
 sorteio = choice(lista)
 print('O aluno escolhido foi {}'.format(sorteio))
-
-
-
-
